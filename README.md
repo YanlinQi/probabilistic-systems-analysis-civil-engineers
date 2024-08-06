@@ -21,13 +21,13 @@ This course introduces the students to principles of probability and statistics 
    - Probability density function, uniform distribution, normal distribution, exponential distribution, chi-squared distribution.
    
 5. **Joint Distributions**
-   - Mean, covariance, and correlation for two random variables considered together, mean and variance of a linear combination of random variables, examples.
+   - Mean, covariance, and correlation for two random variables considered together, mean and variance of a linear combination of random variables.
    
 6. **Sampling Distributions**
-   - Sampling and sampling distributions, sampling distributions of means and sums, the Central Limit Theorem, numerical examples.
+   - Sampling and sampling distributions, sampling distributions of means and sums, the Central Limit Theorem.
    
 7. **Estimation**
-   - Estimators, unbiasedness, efficiency, consistency, estimation of a population mean, maximum likelihood estimation, confidence intervals, examples.
+   - Estimators, unbiasedness, efficiency, consistency, estimation of a population mean, maximum likelihood estimation, confidence intervals.
    
 8. **Hypothesis Testing**
    - Statistical tests of hypotheses, null and alternative hypotheses, tests about the population mean, tests about the difference between two population means, tests about the population variance, goodness-of-fit tests, empirical examples.
