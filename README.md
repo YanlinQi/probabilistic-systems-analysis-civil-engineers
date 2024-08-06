@@ -44,7 +44,8 @@ Douglas C. Montgomery and George C. Runger, *Applied Statistics and Probability 
 
 - *Schaum's Outline of Probability and Statistics*, 2nd or 3rd Ed. by Schiller, Alu Srinivasan, and Spiegel.
 - Online Textbook for the Probability for Data Science class at UC Berkeley, By Ani Adhikari and Jim Pitman: [Probability for Data Science](http://prob140.org/textbook/content/README.html).
-
+## Instructor
+**Instructor Name**: Yanlin Qi
 ## Contents
 
 - **Lectures**: Slide decks and notes for each lecture.
